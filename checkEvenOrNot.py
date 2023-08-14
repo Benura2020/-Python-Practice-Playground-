@@ -2,7 +2,7 @@
 
              /\_/\
             (  ･ω･)
-|------------U-----U----------|
+|------------U-BW--U----------|
 |       MMXXIII_VIII_XIV      |
 |Check the numbers in list "a"|
 |       are Even or Not       |
